@@ -1,0 +1,27 @@
+{
+  "generated_at": "2025-07-28T16:52:09.421Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/company-logo.png",
+      "file_name": "company-logo.png",
+      "description": "A minimalist line-art logo depicting a house outline in green. The house has a pitched roof, chimney, two square windows, and a doorway. The company name 'VŠE PRO STAVBY.CZ' is implied by the context. Context: Serves as the primary logo for the website, likely appearing in the header. Clear and simple design, scalable as a vector graphic.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-cottage-renovation-after.jpg",
+      "file_name": "project-tanvald-cottage-renovation-after.jpg",
+      "description": "An exterior view of a renovated cottage near Tanvald. The house has a white lower facade and dark brown upper facade and roof, surrounded by green grass and a forested hill in the background. A person stands near the house on the right. Context: Featured as 'OMLAZENÍ CHALUPY U TANVALDU' in the 'NAŠE POSLEDNÍ PROJEKTY' section and 'OPRAVA FASÁDY - TANVALD' in 'REFERENCE'. Shows the completed façade work clearly, good overall lighting, though resolution could be higher.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-family-house-reconstruction-after.jpg",
+      "file_name": "project-family-house-reconstruction-after.jpg",
+      "description": "An exterior view of a fully renovated family house. The house has a light-colored facade, a dark grey tiled roof, and dark-framed windows. Cars are parked on the street in front, and a modern fence is visible. The sky is partly cloudy. Context: Represents a 'KOMPLETNÍ REKONTRUKCE RODINNÉHO DOMU' project on the homepage and 'CELKOVÁ REKONTRUKCE RODINNÉHO DOMU - PRAHA' in 'REFERENCE'. Good representation of a completed project, with decent lighting and composition.",
+      "size_bytes": 558411
+    }
+  ]
+}
